@@ -124,7 +124,7 @@ The final model achieved strong and balanced performance across all glass types,
 **Nishant A. Bilagi**  
 Aspiring AI/ML Engineer | Data Science Enthusiast  
 GitHub: https://github.com/nishantab95  
-LinkedIn: (Add your LinkedIn URL here)
+LinkedIn: www.linkedin.com/in/nishant-bilagi-2833851bb
 
 ---
 
